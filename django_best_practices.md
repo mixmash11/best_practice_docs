@@ -20,7 +20,7 @@
     ```
 1. Run the local Docker compose (via Run)
 1. Add the Docker Compose instance as an Interpreter
-1. Import the Black file watcher xml file in pycharm, then change the field Program to: ```/home/mixmash11/.local/bin/black```
+1. Import the Black file watcher xml file in pycharm, then change the field Program to: ```/home/{USER}/.local/bin/black```
 1. Run a migration (via Run)
 1. Add a superuser
     ```shell script
